@@ -38,7 +38,7 @@ export const gridItems = [
   },
   {
     id: 4,
-    title: 'Tech enthusiast with a passion for development.',
+    title: 'Entusiasta de tecnologia e apaixonado por desenvolvimento.',
     description: '',
     className: 'lg:col-span-2 md:col-span-3 md:row-span-1',
     imgClassName: '',
@@ -49,8 +49,9 @@ export const gridItems = [
 
   {
     id: 5,
-    title: 'Currently building a JS Animation library',
-    description: 'The Inside Scoop',
+    title: 'Não apenas algoritmos.',
+    description:
+      'Já pensou em ter um código que realmente ajuda no seu negócio?',
     className: 'md:col-span-3 md:row-span-2',
     imgClassName: 'absolute right-0 bottom-0 md:w-96 w-60',
     titleClassName: 'justify-center md:justify-start lg:justify-center',
@@ -59,7 +60,7 @@ export const gridItems = [
   },
   {
     id: 6,
-    title: 'Do you want to start a project together?',
+    title: 'Que tal marcar um café? ou Meet?',
     description: '',
     className: 'lg:col-span-2 md:col-span-3 md:row-span-1',
     imgClassName: '',
@@ -72,9 +73,9 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: '3D Solar System Planets to Explore',
-    des: 'Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.',
-    img: '/p1.svg',
+    title: 'Autopeças Carretão - E-commerce',
+    des: 'A maior loja de autopeças do Brasil, com mais de 1 milhão de produtos.',
+    img: '/p1.png',
     iconLists: ['/re.svg', '/tail.svg', '/ts.svg', '/three.svg', '/fm.svg'],
     link: '/ui.earth.com'
   },
